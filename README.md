@@ -15,4 +15,4 @@
   * KnexJS
   * Postgres
 
-Obs1.: O designer não está muito bonito, mas fiz o que pude. Se pode melhora-lo mande a sua pull request.
+
